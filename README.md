@@ -14,5 +14,5 @@ Exercises for node packages.
 
 ## Useful references
 
-<!-- - []() -->
+- [npm SemVer Calculator](https://semver.npmjs.com/)
 
