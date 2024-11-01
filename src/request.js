@@ -8,5 +8,5 @@ axios.get('https://www.google.com')
     console.log(error);
   })
   .finally(() => {
-    console.log('All done!');
+    console.log('Finally done!');
   });
