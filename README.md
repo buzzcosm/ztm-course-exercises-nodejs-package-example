@@ -14,13 +14,13 @@ Exercises for node packages.
 
 ## Process
 
-Install npm packages
+Install npm packages ⬇
 
 ```shell
 npm install
 ```
 
-Run node application
+Run node application 🏎️💨
 
 ```shell
 npm start
@@ -32,13 +32,13 @@ Clean packages
 npm run clean
 ```
 
-Check vulnerabilities
+Check vulnerabilities 🤔
 
 ```shell
 npm audit
 ```
 
-Fix vulnerabilities if needed
+Fix vulnerabilities if needed ✅
 
 ```shell
 npm audit fix
