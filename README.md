@@ -26,7 +26,7 @@ Run node application 🏎️💨
 npm start
 ```
 
-Clean packages
+Clean packages 🧹🪣
 
 ```shell
 npm run clean
