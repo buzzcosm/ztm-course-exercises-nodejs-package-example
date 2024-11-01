@@ -10,6 +10,8 @@
 
 ## Description
 
+Exercises for node packages.
+
 ## Useful references
 
 <!-- - []() -->
