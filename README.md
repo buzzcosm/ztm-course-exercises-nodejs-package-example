@@ -12,6 +12,38 @@
 
 Exercises for node packages.
 
+## Process
+
+Install npm packages
+
+```shell
+npm install
+```
+
+Run node application
+
+```shell
+npm start
+```
+
+Clean packages
+
+```shell
+npm run clean
+```
+
+Check vulnerabilities
+
+```shell
+npm audit
+```
+
+Fix vulnerabilities if needed
+
+```shell
+npm audit fix
+```
+
 ## Useful references
 
 - [npm SemVer Calculator](https://semver.npmjs.com/)
